@@ -1,14 +1,14 @@
 //
-//  Ron_and_David_s_iOS_SandboxUITests.swift
-//  Ron and David's iOS SandboxUITests
+//  Push_Notifications_iOSUITests.swift
+//  Push-Notifications-iOSUITests
 //
-//  Created by David Crawford on 5/27/16.
-//  Copyright © 2016 Ron and David. All rights reserved.
+//  Created by David Crawford on 5/30/16.
+//  Copyright © 2016 David Crawford. All rights reserved.
 //
 
 import XCTest
 
-class Ron_and_David_s_iOS_SandboxUITests: XCTestCase {
+class Push_Notifications_iOSUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

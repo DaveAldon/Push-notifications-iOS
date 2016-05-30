@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "15830FE31CF934E6009FCD6F"
-               BuildableName = "Ron and David&apos;s iOS Sandbox.app"
-               BlueprintName = "Ron and David&apos;s iOS Sandbox"
-               ReferencedContainer = "container:Ron and David&apos;s iOS Sandbox.xcodeproj">
+               BlueprintIdentifier = "15680E4D1CFCB430004888BC"
+               BuildableName = "Push-Notifications-iOS.app"
+               BlueprintName = "Push-Notifications-iOS"
+               ReferencedContainer = "container:Push-Notifications-iOS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "15830FF91CF934E6009FCD6F"
-               BuildableName = "Ron and David&apos;s iOS SandboxTests.xctest"
-               BlueprintName = "Ron and David&apos;s iOS SandboxTests"
-               ReferencedContainer = "container:Ron and David&apos;s iOS Sandbox.xcodeproj">
+               BlueprintIdentifier = "15680E611CFCB430004888BC"
+               BuildableName = "Push-Notifications-iOSTests.xctest"
+               BlueprintName = "Push-Notifications-iOSTests"
+               ReferencedContainer = "container:Push-Notifications-iOS.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "158310041CF934E6009FCD6F"
-               BuildableName = "Ron and David&apos;s iOS SandboxUITests.xctest"
-               BlueprintName = "Ron and David&apos;s iOS SandboxUITests"
-               ReferencedContainer = "container:Ron and David&apos;s iOS Sandbox.xcodeproj">
+               BlueprintIdentifier = "15680E6C1CFCB430004888BC"
+               BuildableName = "Push-Notifications-iOSUITests.xctest"
+               BlueprintName = "Push-Notifications-iOSUITests"
+               ReferencedContainer = "container:Push-Notifications-iOS.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "15830FE31CF934E6009FCD6F"
-            BuildableName = "Ron and David&apos;s iOS Sandbox.app"
-            BlueprintName = "Ron and David&apos;s iOS Sandbox"
-            ReferencedContainer = "container:Ron and David&apos;s iOS Sandbox.xcodeproj">
+            BlueprintIdentifier = "15680E4D1CFCB430004888BC"
+            BuildableName = "Push-Notifications-iOS.app"
+            BlueprintName = "Push-Notifications-iOS"
+            ReferencedContainer = "container:Push-Notifications-iOS.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "15830FE31CF934E6009FCD6F"
-            BuildableName = "Ron and David&apos;s iOS Sandbox.app"
-            BlueprintName = "Ron and David&apos;s iOS Sandbox"
-            ReferencedContainer = "container:Ron and David&apos;s iOS Sandbox.xcodeproj">
+            BlueprintIdentifier = "15680E4D1CFCB430004888BC"
+            BuildableName = "Push-Notifications-iOS.app"
+            BlueprintName = "Push-Notifications-iOS"
+            ReferencedContainer = "container:Push-Notifications-iOS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "15830FE31CF934E6009FCD6F"
-            BuildableName = "Ron and David&apos;s iOS Sandbox.app"
-            BlueprintName = "Ron and David&apos;s iOS Sandbox"
-            ReferencedContainer = "container:Ron and David&apos;s iOS Sandbox.xcodeproj">
+            BlueprintIdentifier = "15680E4D1CFCB430004888BC"
+            BuildableName = "Push-Notifications-iOS.app"
+            BlueprintName = "Push-Notifications-iOS"
+            ReferencedContainer = "container:Push-Notifications-iOS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
